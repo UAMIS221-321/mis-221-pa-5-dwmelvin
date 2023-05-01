@@ -1,0 +1,5 @@
+/Users/DavidWMelvin/Desktop/MIS221PA5/mis-221-pa-5-dwmelvin/obj/Debug/net6.0/mis-221-pa-5-dwmelvin.csproj.AssemblyReference.cache
+/Users/DavidWMelvin/Desktop/MIS221PA5/mis-221-pa-5-dwmelvin/obj/Debug/net6.0/mis-221-pa-5-dwmelvin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DavidWMelvin/Desktop/MIS221PA5/mis-221-pa-5-dwmelvin/obj/Debug/net6.0/mis-221-pa-5-dwmelvin.AssemblyInfoInputs.cache
+/Users/DavidWMelvin/Desktop/MIS221PA5/mis-221-pa-5-dwmelvin/obj/Debug/net6.0/mis-221-pa-5-dwmelvin.AssemblyInfo.cs
+/Users/DavidWMelvin/Desktop/MIS221PA5/mis-221-pa-5-dwmelvin/obj/Debug/net6.0/mis-221-pa-5-dwmelvin.csproj.CoreCompileInputs.cache

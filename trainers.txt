@@ -1,0 +1,10 @@
+1#Brandon Sanderson#100 mill creek road#brandonsanderson@fitness.com#False
+2#Steven Erikson#200 Mountain View Ave#stevenerikson@fitness.com#False
+3#Patrick Rothfuss#150 Forest Drive#patrickrothfuss@fitness.com#False
+4#Robin Hobb#250 Riverbank Blvd#robinhobb@fitness.com#False
+5#Neil Gaiman#300 Seaside Lane#neilgaiman@fitness.com#False
+6#George R. R. Martin#400 Park Avenue#georgerrmartin@fitness.com#False
+7#J.K. Rowling#500 Ocean Boulevard#jkrowling@fitness.com#False
+8#Jim Butcher#100 Hilltop Road#jimbutcher@fitness.com#False
+9#Terry Pratchett#200 Valley View Drive#terrypratchett@fitness.com#False
+10#Tad Williams#150 Riverside Drive#tadwilliams@fitness.com#False
